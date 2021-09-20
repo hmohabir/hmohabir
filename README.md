@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hmohabir
 - 👀 I’m interested in Coding, IT Security, Astronomy, Nature and Philosophy.
-- 🌱 I’m currently learning Business Analytics and Data Visualizatin
+- 🌱 I’m currently learning Business Analytics and Data Visualization
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me harry.mohabir@gmail.com
 
